@@ -1,5 +1,5 @@
 # Programming-Teaching-Notes
-Detailed teaching notes for 5+ programming languages
+Detailed teaching notes for 5+ programming languages. Written by Gazal Awwal
 
 * [Java Notes](https://1drv.ms/o/c/21099ec311e51966/EmYZ5RHDngkggCF5AAAAAAAB1qrpGEzew4Lr3aly__cnkA)
 * [Python Notes](https://1drv.ms/o/c/21099ec311e51966/Ek3YZSmgQK5Bvjri6UeU_bcBRM3jcEDYXZXBoAwA9rhYhg)
